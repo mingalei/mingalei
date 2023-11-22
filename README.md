@@ -27,7 +27,7 @@
 
 ## Проекты:
 ### Дипломный проект по автоматизации тестирования web, api
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mingalei&repo=steam_ui_)](https://github.com/Mamalazer/qa_guru_final_project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mingalei&repo=steam_ui_)](https://github.com/mingalei/steam_ui_)
 
 ## Статистика:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mingalei&theme=solarized_dark)
