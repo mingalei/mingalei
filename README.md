@@ -28,7 +28,7 @@
 ## Проекты:
 ### Дипломный проект по автоматизации тестирования web, api
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mingalei&repo=steam_ui_)](https://github.com/mingalei/steam_ui_)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mingalei&repo=reqres_api)](https://github.com/mingalei/steam_ui_)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mingalei&repo=reqres_api)](https://github.com/mingalei/reqres_api)
 
 ## Статистика:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mingalei&theme=solarized_dark)
